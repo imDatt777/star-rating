@@ -1,0 +1,16 @@
+.star-container {
+    background-color: #F2FFFD;
+    border: 1px solid #666;
+    border-radius: 15px;
+    margin: 10%;
+    padding: 20px 50px;
+    text-align: center;
+
+    input[type="radio"] {
+        display: none;
+    }
+
+    .star {
+        cursor: pointer;
+    }
+}
